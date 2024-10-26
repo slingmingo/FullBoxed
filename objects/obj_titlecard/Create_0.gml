@@ -1,0 +1,12 @@
+cardsprite = spr_entrancecard
+cardmusic = 13
+showcard = 0
+fade1 = 0
+fade2 = 0
+secondfade = 0
+retract = 0
+shake1 = 0
+shake2 = 0
+alarm[0] = 220
+alarm[1] = 25
+alarm[2] = 185

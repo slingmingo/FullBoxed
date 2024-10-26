@@ -1,0 +1,6 @@
+draw_sprite(bg_medieval1, 0, (hudx + 100), 0)
+draw_sprite(spr_placeholdericon2, 0, (noisex + hudx - 60), noisey)
+draw_sprite(spr_peppinoicon, 0, (pepx + hudx - 60), pepy)
+draw_sprite(spr_vigiicon, 0, (vigix + hudx - 60), vigiy)
+draw_sprite(spr_noiseicon, 0, (pepperx + hudx - 60), peppery)
+draw_sprite_ext(charactername, 0, (350 + hudx - 60), 100, 1, 1, 0, c_white, namefade)

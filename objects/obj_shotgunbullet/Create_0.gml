@@ -1,0 +1,12 @@
+image_speed = 0.6
+playerid = ((!(place_meeting(x, y, obj_player))) ? instance_nearest(x, y, obj_player) : instance_place(x, y, obj_player))
+image_xscale = playerid.xscale
+is_solid = 1
+spd = 25
+depth = -10
+spdh = 0
+pistol = 0
+shotgun = 0
+brick = 0
+brickid = obj_null
+blur_effect = -1

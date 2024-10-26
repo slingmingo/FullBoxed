@@ -1,0 +1,44 @@
+global.coop = false;
+global.currentsavefile = 1;
+global.mach_color1 = make_colour_rgb(96, 208, 72);
+global.mach_color2 = make_colour_rgb(248, 0, 0);
+global.afterimage_color1 = make_colour_rgb(255, 0, 0);
+global.afterimage_color2 = make_colour_rgb(0, 255, 0);
+global.smallnumber_color1 = make_colour_rgb(255, 255, 255);
+global.smallnumber_color2 = make_colour_rgb(248, 0, 0);
+global.optimize = false;
+global.autotile = true;
+global.font_small = font_add_sprite_ext(spr_smallfont, "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!._1234567890:?", 1, -2);
+global.smallnumber_fnt = font_add_sprite_ext(spr_smallnumber, "1234567890-", 1, 0);
+global.pigreduction = 0;
+global.pigtotal = 0;
+global.levelcomplete = false;
+global.levelcompletename = -4;
+global.entrancetreasure = 0;
+global.medievaltreasure = 0;
+global.ruintreasure = 0;
+global.dungeontreasure = 0;
+global.deserttreasure = 0;
+global.graveyardtreasure = 0;
+global.farmtreasure = 0;
+global.spacetreasure = 0;
+global.beachtreasure = 0;
+global.foresttreasure = 0;
+global.pinballtreasure = 0;
+global.golftreasure = 0;
+global.streettreasure = 0;
+global.sewertreasure = 0;
+global.factorytreasure = 0;
+global.freezertreasure = 0;
+global.chateautreasure = 0;
+global.mansiontreasure = 0;
+global.kidspartytreasure = 0;
+global.wartreasure = 0;
+audio_play_sound(124, 1, true, global.option_music_volume);
+pal_swap_init_system(7);
+
+with (obj_player1)
+    state = 0;
+
+global.loadeditor = false;
+instance_destroy(obj_cutscene_handler);

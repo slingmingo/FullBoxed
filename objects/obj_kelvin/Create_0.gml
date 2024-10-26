@@ -1,0 +1,9 @@
+hsp = 0
+movespeed = 6.5
+vsp = 0
+grav = 0.5
+platformid = noone
+vsp_carry = 0
+hsp_carry = 0
+image_speed = 0.5
+alarm[0] = 150

@@ -1,0 +1,22 @@
+targetDoor = "A"
+depth = 50
+sprite_index = spr_gate_entrance_0
+gate_index = 1079
+gatemask_index = 2939
+bgsprite = spr_gate_entranceBG
+displayname = "John Gutter"
+level = "none"
+leveltosave = "none"
+cardsprite = spr_entrancecard
+cardmusic = 13
+world = 1
+drawing = 0
+rank = "d"
+rankindex = 0
+targetDoor = "A"
+msg = ""
+highscore = 0
+secret_count = 0
+leveltitlealpha = 0
+scr_init_levelgatebg()
+toppin = array_create(5, 0)

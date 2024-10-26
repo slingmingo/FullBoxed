@@ -1,0 +1,20 @@
+state = "intro"
+image_speed = 0.4
+if (!instance_exists(obj_bosscontroller))
+    instance_create(0, 0, obj_bosscontroller)
+alarm[0] = 460
+pulses = 0
+phase2 = 0
+vulnerable = 0
+enemyid = -4
+wait = 90
+vsp = 0
+hsp = 0
+side = 0
+xfinal = 0
+attack = 0
+lastattack = 0
+baddieID = id
+hitX = 0
+hitY = 0
+canspawn = 0

@@ -1,0 +1,16 @@
+image_speed = 0.35
+alpha = 1
+starthp = 10
+bosshpicon = 1586
+playerhpicon = 2621
+playerhp = 6
+bosshp = starthp
+imindex = 0
+hep = 0
+bhep = 0
+col = 16777215
+phep = 0
+run_index = 0
+playerhurt = 0
+playerpal = 19
+depth = -10

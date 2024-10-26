@@ -1,0 +1,14 @@
+optionselected = 0
+optionsaved_fullscreen = (!global.option_fullscreen)
+optionsaved_resolution = global.option_resolution
+optionsaved_cameraeffects = (!global.option_cameraeffects)
+optionsaved_vibration = (!global.option_vibration)
+optionsaved_audiopitching = (!global.option_audiopitching)
+stickpressed = 0
+depth = -99
+buffer = 0
+bgxscroll = 0
+bgyscroll = 0
+yoffset = 0
+finaly = 0
+gbc = make_color_rgb(155, 200, 255)

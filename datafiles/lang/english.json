@@ -1,0 +1,13 @@
+{
+	// this supports arrays.
+	// "example" : [
+	//	"string",
+	//	"string2"
+	// ]
+	// lang("example", 0) returns "string", lang("example", 1) returns "string2"
+	//
+	// "example" : "string"
+	// lang("example") returns "string"
+	//
+	// please extend this.
+}

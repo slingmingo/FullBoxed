@@ -1,0 +1,1 @@
+paletteselect = 2;

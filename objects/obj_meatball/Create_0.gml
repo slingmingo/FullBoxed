@@ -1,0 +1,10 @@
+grav = 0.5
+vsp = 0
+hsp = 0
+vsp_carry = 0
+hsp_carry = 0
+platformid = obj_treasureeffect
+grounded = false
+v_velocity = 0
+rolling = 0
+image_speed = 0.3

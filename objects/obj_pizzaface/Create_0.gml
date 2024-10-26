@@ -1,0 +1,11 @@
+maxspeed = 8
+arriving = false
+alarm[0] = 5
+afterimage = 4
+mockmovespeed = 0
+image_speed = 0.35
+depth = -5
+x = obj_player1.x
+y = obj_player1.y
+alarm[1] = 10
+image_alpha = 0.25

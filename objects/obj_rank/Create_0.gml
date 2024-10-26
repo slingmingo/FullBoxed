@@ -1,0 +1,10 @@
+image_speed = 0.5
+alarm[0] = 445
+alarm[1] = 575
+shake_mag = 0
+depth = -8
+scoresh = 0
+canexit = 0
+palactive = 0
+resultspush = 0
+shake = 0
