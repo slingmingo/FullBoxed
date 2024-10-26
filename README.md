@@ -17,7 +17,7 @@ GameMaker Version Used: 2023.6
 Everything works fine, but
 
 - Organization is needed
-- A lot of stuff might be working
+- A lot of stuff might (not) be working
 
 ### Thanks to
 - Mr.Crabapples, for using the rape engine
